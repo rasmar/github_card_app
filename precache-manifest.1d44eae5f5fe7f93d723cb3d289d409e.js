@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4136d210e9e60c60a0a5cb69ff393f5e",
+    "revision": "d84a1e0922ffa14f78cb52df990b7855",
     "url": "/github_card_app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github_card_app/static/css/2.228a363c.chunk.css"
   },
   {
-    "revision": "2a88ccd845d9248b23bb",
+    "revision": "27986fc73913d9e5da51",
     "url": "/github_card_app/static/css/main.4c032a81.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github_card_app/static/js/2.0abe99f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a88ccd845d9248b23bb",
-    "url": "/github_card_app/static/js/main.84c41b15.chunk.js"
+    "revision": "27986fc73913d9e5da51",
+    "url": "/github_card_app/static/js/main.3c775056.chunk.js"
   },
   {
     "revision": "e8b738b42874fd2fa2f3",

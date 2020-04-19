@@ -10,7 +10,7 @@ class Card extends Component {
       <div className="card">
         <a href={this.profile.html_url}><img src={this.profile.avatar_url} alt="avatar" /></a>
         <div className="card__info">
-          <div className="card__name">{this.profile.name}({this.profile.login})</div>
+          <div className="card__name">{this.profile.name} ({this.profile.login})</div>
           <div className="card__company">{this.profile.company}</div>
           <div className="card__bio">{this.profile.bio}</div>
         </div>

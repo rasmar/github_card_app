@@ -1,0 +1,119 @@
+body {
+  background-color: aliceblue;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.header {
+  color: #7693E0;
+  font-weight: bold;
+  font-size: 2em;
+  background-color: #2E294E;
+  padding: 15px 0 15px 0;
+  text-align: center;
+}
+
+form {
+  margin: 30px 0 0 30px;
+  border: 0px solid;
+}
+
+input[type=text] {
+  width: 200px;
+  padding: 10px;
+  border: 1px #2E294E solid;
+  border-radius: 15px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+button {
+  width: 30px;
+  height: 30px;
+  margin-left: 15px;
+  border: 0;
+  background: #2E294E;
+  color: #7693E0;
+  border-radius: 15px;
+  font-weight: bold;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.card-list {
+  position: relative;
+  width: 100%;
+  padding: 30px 30px 30px 30px;
+}
+
+.card {
+  position: relative;
+  width: 100%;
+  background: #2E294E;
+  height: 200px;
+  margin-bottom: 30px;
+}
+
+.card img {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+
+.card__info {
+  height: 200px;
+  left: 215px;
+  position: absolute;
+  padding: 15px;
+  color: #7693E0;
+}
+
+.card__name {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.card__company {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.card__bio {
+  margin: 15px 0 0 0;
+}
+
+.card__score {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  color: #FCAA67;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.card__delete {
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+  color: #B0413E;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.form {
+  position: relative;
+  width: 100%;
+}
+
+.alert {
+  position: absolute;
+  top: 10px;
+  left: 300px;
+  color: #B0413E;
+  transition: opacity 1s ease-out;
+}

@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "beeaec3b6d3acb23520943465a918cf1",
+    "revision": "1ee157cced1fd4e663263c1d12683831",
     "url": "/github_card_app/index.html"
   },
   {
-    "revision": "b65644efdb249f506de7",
+    "revision": "643a9202fbcbbfbcc335",
     "url": "/github_card_app/static/css/2.228a363c.chunk.css"
   },
   {
-    "revision": "5a93fb1882370b857a50",
+    "revision": "066dc7d33c7b53997fc1",
     "url": "/github_card_app/static/css/main.4c032a81.chunk.css"
   },
   {
-    "revision": "b65644efdb249f506de7",
-    "url": "/github_card_app/static/js/2.0abe99f1.chunk.js"
+    "revision": "643a9202fbcbbfbcc335",
+    "url": "/github_card_app/static/js/2.887ea34a.chunk.js"
   },
   {
     "revision": "ef7f0128066dad638e14e7838f835a83",
-    "url": "/github_card_app/static/js/2.0abe99f1.chunk.js.LICENSE.txt"
+    "url": "/github_card_app/static/js/2.887ea34a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a93fb1882370b857a50",
-    "url": "/github_card_app/static/js/main.b18984c5.chunk.js"
+    "revision": "066dc7d33c7b53997fc1",
+    "url": "/github_card_app/static/js/main.bdda1241.chunk.js"
   },
   {
-    "revision": "e8b738b42874fd2fa2f3",
-    "url": "/github_card_app/static/js/runtime-main.a91c5124.js"
+    "revision": "86a728c431dbbd5f46fa",
+    "url": "/github_card_app/static/js/runtime-main.9c8cbc9a.js"
   },
   {
     "revision": "0cb5a5c0d251c109458c85c6afeffbaa",

@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/github_card_app/static/css/main.4c032a81.chunk.css",
-    "main.js": "/github_card_app/static/js/main.b18984c5.chunk.js",
-    "main.js.map": "/github_card_app/static/js/main.b18984c5.chunk.js.map",
-    "runtime-main.js": "/github_card_app/static/js/runtime-main.a91c5124.js",
-    "runtime-main.js.map": "/github_card_app/static/js/runtime-main.a91c5124.js.map",
+    "main.js": "/github_card_app/static/js/main.bdda1241.chunk.js",
+    "main.js.map": "/github_card_app/static/js/main.bdda1241.chunk.js.map",
+    "runtime-main.js": "/github_card_app/static/js/runtime-main.9c8cbc9a.js",
+    "runtime-main.js.map": "/github_card_app/static/js/runtime-main.9c8cbc9a.js.map",
     "static/css/2.228a363c.chunk.css": "/github_card_app/static/css/2.228a363c.chunk.css",
-    "static/js/2.0abe99f1.chunk.js": "/github_card_app/static/js/2.0abe99f1.chunk.js",
-    "static/js/2.0abe99f1.chunk.js.map": "/github_card_app/static/js/2.0abe99f1.chunk.js.map",
+    "static/js/2.887ea34a.chunk.js": "/github_card_app/static/js/2.887ea34a.chunk.js",
+    "static/js/2.887ea34a.chunk.js.map": "/github_card_app/static/js/2.887ea34a.chunk.js.map",
     "index.html": "/github_card_app/index.html",
-    "precache-manifest.fe925b83fe50b84846ca3cb6ff483457.js": "/github_card_app/precache-manifest.fe925b83fe50b84846ca3cb6ff483457.js",
+    "precache-manifest.7868a362087d56d8b669a8e5a6dbea2b.js": "/github_card_app/precache-manifest.7868a362087d56d8b669a8e5a6dbea2b.js",
     "service-worker.js": "/github_card_app/service-worker.js",
     "static/css/2.228a363c.chunk.css.map": "/github_card_app/static/css/2.228a363c.chunk.css.map",
     "static/css/main.4c032a81.chunk.css.map": "/github_card_app/static/css/main.4c032a81.chunk.css.map",
-    "static/js/2.0abe99f1.chunk.js.LICENSE.txt": "/github_card_app/static/js/2.0abe99f1.chunk.js.LICENSE.txt",
+    "static/js/2.887ea34a.chunk.js.LICENSE.txt": "/github_card_app/static/js/2.887ea34a.chunk.js.LICENSE.txt",
     "static/media/all.css": "/github_card_app/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a91c5124.js",
+    "static/js/runtime-main.9c8cbc9a.js",
     "static/css/2.228a363c.chunk.css",
-    "static/js/2.0abe99f1.chunk.js",
+    "static/js/2.887ea34a.chunk.js",
     "static/css/main.4c032a81.chunk.css",
-    "static/js/main.b18984c5.chunk.js"
+    "static/js/main.bdda1241.chunk.js"
   ]
 }
